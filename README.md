@@ -1,4 +1,4 @@
-# Aleesha Portfolio
+# My Portfolio
 
 A modern and responsive personal portfolio website showcasing my projects, skills, education, and contact information. Built with React, TypeScript, Vite, Tailwind CSS, Framer Motion, and Formspree.
 
@@ -51,13 +51,3 @@ src/
 └── main.tsx
 ```
 
-## Contact
-
-- Portfolio: https://aleesha-portfolio.vercel.app
-- LinkedIn: https://www.linkedin.com/in/aleesha-tariq-se
-- GitHub: https://github.com/Aleesha1234
-- Email: aleeshatariq4499@gmail.com
-
-## License
-
-This project is licensed under the MIT License.
