@@ -5,6 +5,7 @@ import bikersHubImg from '@/assets/generated_images/bikers-hub.jpg';
 import digitalAgencyImg from '@/assets/generated_images/digital-agency.jpg';
 import expenseTrackerImg from '@/assets/generated_images/expense-tracker.jpg';
 import calculatorImg from '@/assets/generated_images/calculator.jpg';
+import portfolioImg from '@/assets/generated_images/portfolio.jpg';
 
 const projects = [
   {
@@ -38,6 +39,21 @@ const projects = [
     tech: ["Python", "Streamlit", "Pandas"],
     demoLink: "https://github.com/Aleesha1234/expense-tracker",
     githubLink: "https://github.com/Aleesha1234/expense-tracker"
+  },
+  {
+  title: "Personal Portfolio Website",
+  description: "A modern and responsive portfolio website showcasing my projects, technical skills, education, and achievements. It features smooth animations, resume download functionality, and a Formspree-powered contact form.",
+  image: portfolioImg,
+  tech: [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Vite",
+    "Framer Motion",
+    "Formspree"
+  ],
+  demoLink: "https://aleesha-portfolio.vercel.app",
+  githubLink: "https://github.com/Aleesha1234/aleesha-portfolio"
   },
   {
     title: "DOM Calculator",
